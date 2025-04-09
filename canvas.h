@@ -5,6 +5,7 @@
 #ifndef CANVA_H
 #define CANVA_H
 #include <vector>
+#include <memory>
 #include "figura.h"
 
 class Canvas {
